@@ -1,0 +1,72 @@
+*{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-color: #355C7D  ;
+}
+.form{
+background-color: #2597CE;
+width: 100px;
+height: 100px;
+margin: 218px auto;
+padding: 100px;
+border-radius: 10px;
+text-align: center;
+align-items: center;
+}
+.for .inp{
+    padding: 5px;
+    width: 166px;
+    margin-left: -29px;
+    margin-bottom: 5px;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s;
+}
+.for .inp:hover{
+    color: whitesmoke;
+    background-color: darkgoldenrod;
+}
+.for .btn{
+   width: 46px;
+    margin: 14px 0px 0px 0px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: 0.5s;
+}
+.result{
+    margin-top: 100px;
+    color: whitesmoke;
+}
+
+.for .btn:hover{
+    background-color: darkgoldenrod;
+    color: white;
+}
+.cal{
+   position: absolute;
+   left: 932px;
+   top: 222px;
+   width: 50px;
+}
+.calc{
+    position: absolute;
+    left: 889px;
+    top: 249px;
+    width: 50px;
+}
+.f{
+    position: absolute;
+    left: 889px;
+    top: 249px;
+    width: 50px;
+}
+.s{
+    position: absolute;
+    left: 806px;
+    top: 370px;
+    font-size: 10px;
+}
+
